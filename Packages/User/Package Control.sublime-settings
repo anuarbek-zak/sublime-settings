@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AngularJS",
+		"AutoFileName",
+		"Babel",
+		"Babel Snippets",
+		"Bootstrap 3 Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"Gist",
+		"Goto-CSS-Declaration",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"SCSS",
+		"Terminal",
+		"TypeScript",
+		"Vue Syntax Highlight",
+		"Vuejs Complete Package",
+		"Vuejs Snippets"
+	]
+}
